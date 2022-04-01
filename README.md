@@ -1,1 +1,3 @@
-# Coursera-Assignment-Cats-vs-Dogs-with-Data-Augmentation
+# Coursera Assignment - Cats vs Dogs with Data Augmentation
+
+This is one of the Coursera assignments provided in the Convolutional Neural Networks in TensorFlow course in the week 2 section where it discusses Augmentation: A technique to avoid overfitting. This assignment is about using the famous cats vs dogs dataset to train a model that can classify images of dogs from images of cats, where we will create our own Convolutional Neural Network in Tensorflow and leverage Keras' image preprocessing utilities, more so this time around since Keras provides excellent support for augmenting image data.
